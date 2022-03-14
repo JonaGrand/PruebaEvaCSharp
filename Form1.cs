@@ -73,7 +73,7 @@ namespace WindowsFormsApp1
 
         private void btnConectar_Click(object sender, EventArgs e)
         {
-            //Llamamos al metodo conectar
+            //Llamamos al metodo conectar - WAPI
             conectar(txtEntrada.Text);
         }
 
